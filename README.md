@@ -1,11 +1,9 @@
-# Live Demo: https://github-user-analytics.netlify.app/
+## About
 
-## Starter Project
+**In This Project, You can get the analysis of Any GitHub User. In this, i used React, Auth0( for authentication), GitHub API ( for data fetch), FusionCharts ( for Graph & Chart Analysis ), Netlify ( for deployment )**
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
+## Live Demo: https://github-user-analytics.netlify.app/
+
 
 ## Styled Components
 
@@ -49,9 +47,9 @@ version used - "react-router-dom": "^5.2.0",
 ## Github API
 
 - [Root Endpoint](https://api.github.com)
-- [Get User](https://api.github.com/users/wesbos)
-- [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
-- [Followers](https://api.github.com/users/john-smilga/followers)
+- [Get User](https://api.github.com/users/Siddhant-K-code)
+- [Repos](https://api.github.com/users/Siddhant-K-code/repos?per_page=100)
+- [Followers](https://api.github.com/users/Siddhant-K-code/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
 
   For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
