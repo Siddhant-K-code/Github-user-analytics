@@ -1,6 +1,6 @@
 ![Github-user-analytics](https://socialify.git.ci/Siddhant-K-code/Github-user-analytics/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 
-_Learned From a Tutorial _
+_Learned From a Tutorial_
 
 ## About
 
